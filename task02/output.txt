@@ -1,0 +1,5 @@
+[type=NUM, lexeme=10]
+[type=NUM, lexeme=10]
+[type=PLUS, lexeme=+]
+
+Saida: 20
